@@ -1,8 +1,9 @@
 # HBO-Max
-  Página desenvolvida unicamente como forma de estudo
-    
-    Todo o código foi feito sem nenhum uso de Framework.
-    
-    A responsivdade ainda tem muito o que pode melhorar. Mas já tem uma estruturação básica.
+This is just a study project
+  
+# My first landing page
+I was training html and css, but I decided to create a mobile navigation with javascript.
+
+# Thank you
     
     
